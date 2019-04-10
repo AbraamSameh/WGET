@@ -1,0 +1,9 @@
+C:\Users\DatabaseLab\Desktop\WGET\WGET\bin\Debug\WGET.exe.config
+C:\Users\DatabaseLab\Desktop\WGET\WGET\bin\Debug\WGET.exe
+C:\Users\DatabaseLab\Desktop\WGET\WGET\bin\Debug\WGET.pdb
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.csprojResolveAssemblyReference.cache
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.Properties.Resources.resources
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.csproj.GenerateResource.Cache
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.exe
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.pdb
+C:\Users\DatabaseLab\Desktop\WGET\WGET\obj\Debug\WGET.GUI.WGET_Form.resources
